@@ -1,0 +1,2 @@
+files: console_file_manager.py, data_files-dirs_json.txt, data_json.txt, lesson09_m04_victory.py, main.py, personal_account.py, ReadMe.txt
+dirs: .idea, venv, __pycache__
